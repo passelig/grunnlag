@@ -20,7 +20,7 @@ Før du begynner, må følgende være installert:
 1. **Klon repoet:**
 
    ```bash
-   git clone <repo-url>
+   git clone https://github.com/passelig/grunnlag.git
    cd Grunnlag
    ```
 
