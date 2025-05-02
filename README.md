@@ -69,10 +69,11 @@ https://localhost:5001/grunnlag
 Når API-et kjører, åpne nettleseren og gå til:
 
 ```
-https://localhost:5001/swagger
+https://localhost:8088/swagger
 ```
 
 Her kan du teste endepunktene direkte via Swagger UI.
+![Swagger UI](images/screenshot_swagger.png)
 
 ---
 
