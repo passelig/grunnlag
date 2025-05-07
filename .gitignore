@@ -16,11 +16,9 @@ logs/
 node_modules/
 **/node_modules/
 
-target/
 **/target/
-
-bin/
 **/bin/
+**/obj/
 *.dll
 *.pdb
 
