@@ -21,6 +21,8 @@ target/
 
 bin/
 **/bin/
+*.dll
+*.pdb
 
 out/
 **/out/
